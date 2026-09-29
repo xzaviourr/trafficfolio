@@ -40,8 +40,8 @@
 <line x1="52" y1="420" x2="1114" y2="420" stroke="#21262d"/>
 <line x1="52" y1="350" x2="1114" y2="350" stroke="#21262d"/>
 <line x1="52" y1="280" x2="1114" y2="280" stroke="#21262d"/>
-<polyline points="52.0,410.0 89.8,410.0 127.6,371.9 165.4,410.0 203.2,410.0 241.0,408.4 278.8,275.0 316.6,356.0 354.3,383.0 392.1,394.1 429.9,402.1 467.7,397.3 505.5,402.1 543.3,400.5 581.1,389.4 618.9,403.6 656.7,402.1 694.5,400.5 732.3,403.6 770.1,406.8 807.9,403.6 845.7,403.6 883.4,410.0 921.2,410.0 959.0,408.4 996.8,410.0 1034.6,410.0 1072.4,410.0 1110.2,410.0 1148.0,410.0" fill="none" stroke="url(#line)" stroke-width="4" stroke-linejoin="round" filter="url(#glow)"/>
-<polyline points="52.0,410.0 89.8,410.0 127.6,395.7 165.4,408.0 203.2,409.4 241.0,409.4 278.8,320.0 316.6,374.3 354.3,384.7 392.1,404.4 429.9,408.0 467.7,407.8 505.5,397.6 543.3,400.7 581.1,403.2 618.9,406.6 656.7,406.1 694.5,405.5 732.3,401.8 770.1,406.3 807.9,404.1 845.7,406.3 883.4,407.2 921.2,406.9 959.0,402.4 996.8,410.0 1034.6,410.0 1072.4,410.0 1110.2,410.0 1148.0,410.0" fill="none" stroke="#3fb950" stroke-width="3" stroke-linejoin="round"/>
+<polyline points="52.0,410.0 89.8,371.9 127.6,410.0 165.4,410.0 203.2,408.4 241.0,275.0 278.8,356.0 316.6,383.0 354.3,394.1 392.1,402.1 429.9,397.3 467.7,402.1 505.5,400.5 543.3,389.4 581.1,403.6 618.9,402.1 656.7,400.5 694.5,403.6 732.3,406.8 770.1,403.6 807.9,403.6 845.7,410.0 883.4,410.0 921.2,408.4 959.0,410.0 996.8,410.0 1034.6,410.0 1072.4,410.0 1110.2,410.0 1148.0,410.0" fill="none" stroke="url(#line)" stroke-width="4" stroke-linejoin="round" filter="url(#glow)"/>
+<polyline points="52.0,410.0 89.8,395.7 127.6,408.0 165.4,409.4 203.2,409.4 241.0,320.0 278.8,374.3 316.6,384.7 354.3,404.4 392.1,408.0 429.9,407.8 467.7,397.6 505.5,400.7 543.3,403.2 581.1,406.6 618.9,406.1 656.7,405.5 694.5,401.8 732.3,406.3 770.1,404.1 807.9,406.3 845.7,407.2 883.4,406.9 921.2,402.4 959.0,410.0 996.8,410.0 1034.6,410.0 1072.4,410.0 1110.2,410.0 1148.0,410.0" fill="none" stroke="#3fb950" stroke-width="3" stroke-linejoin="round"/>
 <rect x="38" y="478" width="642" height="310" rx="16" fill="#161b22" fill-opacity=".82" stroke="#30363d"/>
 <circle cx="62" cy="512" r="5" fill="#3fb950"/><text x="76" y="518" class="section">Trending public repositories</text>
 <text x="410" y="548" text-anchor="end" class="label">VIEWS</text>
@@ -61,5 +61,5 @@
 <rect x="590" y="814" width="538" height="142" rx="14" fill="#161b22" fill-opacity=".82" stroke="#30363d"/>
 <text x="614" y="842" class="section">Popular content</text>
 <text x="630" y="874" class="repo">trafficfolio</text><text x="810" y="874" class="value">Overview</text><text x="1100" y="874" text-anchor="end" class="value">23 views</text><text x="630" y="910" class="repo">trafficfolio</text><text x="810" y="910" class="value">/pulse</text><text x="1100" y="910" text-anchor="end" class="value">9 views</text><text x="630" y="946" class="repo">trafficfolio</text><text x="810" y="946" class="value">/graphs/traffic</text><text x="1100" y="946" text-anchor="end" class="value">9 views</text>
-<text x="40" y="989" class="subtitle">Updated 2026-09-28T01:39:36Z / durable data from the GitHub API / daily unique counts are not lifetime unique people</text>
+<text x="40" y="989" class="subtitle">Updated 2026-09-29T02:34:54Z / durable data from the GitHub API / daily unique counts are not lifetime unique people</text>
 </svg>
