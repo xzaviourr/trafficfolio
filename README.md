@@ -17,7 +17,7 @@ One GitHub Action tracks your repository views, visitors, clones, stars, forks, 
 </div>
 
 <!-- TRAFFICFOLIO:START -->
-<p align="center"><img src="./assets/dashboard.svg?v=2026-11-24T06%3A57%3A34Z" alt="Trafficfolio dashboard" width="100%"></p>
+<p align="center"><img src="./assets/dashboard.svg?v=2026-11-25T05%3A26%3A07Z" alt="Trafficfolio dashboard" width="100%"></p>
 <!-- TRAFFICFOLIO:END -->
 
 ## Make it yours
